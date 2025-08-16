@@ -21,7 +21,7 @@ const Contact = () => {
               <div>
                 <span className="font-semibold">Email:</span>{" "}
                 <a
-                  href="mailto:shivambhadani19@gmail.com"
+                  href="mailto:shubhanshu7sharma@gmail.com"
                   target="_blank"
                   className="text-blue-700 dark:text-blue-200"
                 >
